@@ -1,0 +1,1 @@
+# Modelo-Simples-para-Prever-S-ries-Temporais-
