@@ -1,1 +1,2 @@
-# Modelo-Simples-para-Prever-S-ries-Temporais-
+# Modelo simples para prever `Séries Temporais` utilizando _Regressão Linear_**
+---
